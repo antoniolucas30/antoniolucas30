@@ -2,7 +2,7 @@
 
 ### • About me:
 
-#### - My name is Antonio Lucas, and I'm a continuous student on this vast world of programming. Currently, I'm taking a degree on System Analysis and Development at Unicamp. As a side work, I make tutorials of Competitive Programming on Neps Academy, a Brazilian Site that helps others learn about Competitive Programming.
+#### - My name is Antonio Lucas, and I'm a continuous student on this vast world of programming. Currently, I'm taking a degree on System Analysis and Development at Unicamp. As a side work, I make tutorials about Competitive Programming on Neps Academy, a Brazilian Site that helps others learn about Competitive Programming.
 
 ### • Some of the things I'm currently learning:
 
