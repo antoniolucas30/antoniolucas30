@@ -8,7 +8,7 @@
 
 #### <img src="https://i.imgur.com/nx10iYf.png" width = "53px"> &nbsp; <img src="https://i.imgur.com/Y0TZE57.png" width="43px"> &nbsp; <img src="https://i.imgur.com/vjntF9Y.png" width = "43px"> &nbsp; <img src="https://i.imgur.com/FiDDKJg.png" width = "43px"> &nbsp; <img src="https://i.imgur.com/PvI0Iaw.png" width = "43px">
 
-### • Here are some of my works:
+### • Some of my programming-related accounts:
 
 <a href="https://www.urionlinejudge.com.br/judge/pt/profile/413194" title="URI Online Judge"><img src="https://i.imgur.com/GyRVpOe.png" width="72px" alt="URI Online Judge logo"></a> &nbsp; <a href="https://neps.academy/br/user/6155" title="Neps Academy"><img src="https://i.imgur.com/ECuDjuw.png" width="160px" alt="URI Online Judge logo"></a>
 
