@@ -4,7 +4,7 @@
 
 #### - My name is Antonio Lucas, and I'm a continuous student on this vast world of programming. Currently, I'm taking a degree on Computer Science at USP. As a side work, I make tutorials about Competitive Programming on Neps Academy, a Brazilian Site that helps others learn about Competitive Programming. Basically, I'm discovering more and more about myself with programming, so I hope that I forever continue to explore this appetizing sphere that is Programming!
 
-Be unconcerned to check some of my repositories :D!
+#### - Be unconcerned to check some of my repositories :D!
 
 ### • Some of the things I'm currently learning:
 
