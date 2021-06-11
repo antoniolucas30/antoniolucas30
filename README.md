@@ -4,7 +4,7 @@
 
 #### - My name is Antonio Lucas, and I'm a continuous student on this vast world of programming. Currently, I'm taking a degree on Computer Science at USP. As a side work, I make tutorials about Competitive Programming on Neps Academy, a Brazilian Site that helps others learn about Competitive Programming. Basically, I'm discovering more and more about myself with programming, so I hope that I forever continue to explore and study Programming!
 
-### - Be unconcerned to check some of my repositories :D!
+### - Feel free to check some of my repositories :D!
 
 ### • Some of the things I'm currently learning:
 
@@ -14,7 +14,7 @@
 
 <a href="https://www.urionlinejudge.com.br/judge/pt/profile/413194" title="URI Online Judge"><img src="https://i.imgur.com/GyRVpOe.png" width="72px" alt="URI Online Judge logo"></a> &nbsp; <a href="https://neps.academy/br/user/6155" title="Neps Academy"><img src="https://i.imgur.com/ECuDjuw.png" width="160px" alt="URI Online Judge logo"></a>
 
-#### • Feel free to contact me:
+### • Contact me:
 
 <a href="mailto: antoniolucascavalcante@hotmail.com" title="Email"><img src="https://i.imgur.com/HSGMXdN.png" width="43px" alt="Email logo"></a>
  
