@@ -14,7 +14,7 @@
 
 <a href="https://www.urionlinejudge.com.br/judge/pt/profile/413194" title="URI Online Judge"><img src="https://i.imgur.com/GyRVpOe.png" width="72px" alt="URI Online Judge logo"></a> &nbsp; <a href="https://neps.academy/br/user/6155" title="Neps Academy"><img src="https://i.imgur.com/ECuDjuw.png" width="160px" alt="URI Online Judge logo"></a>
 
-### • Contact me:
+### • How you can contact me:
 
 <a href="mailto: antoniolucascavalcante@hotmail.com" title="Email"><img src="https://i.imgur.com/HSGMXdN.png" width="43px" alt="Email logo"></a>
  
