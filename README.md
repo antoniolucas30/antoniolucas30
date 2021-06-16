@@ -3,13 +3,14 @@
 
 ### • About me:
 
-  My name is Antonio Lucas, I'm from Brazil, and I'm a continuous student on this vast world of programming. Currently, I'm taking a degree on Computer Science at Universidade de São Paulo. Sometimes, I like to make tutorials about Competitive Programming on Neps Academy, a Brazilian Site that helps others learn about Competitive Programming. Basically, I'm discovering more and more about myself with programming, so I hope that I forever continue to explore and study Programming!
+  My name is Antonio Lucas, I'm from Brazil and I have 17 years. I'm a continuous student on this vast world of programming. Currently, I'm taking a degree on Computer Science at Universidade de São Paulo. Sometimes, I like to make tutorials about Competitive Programming on Neps Academy, a Brazilian Site that helps others learn about Competitive Programming. Basically, I'm discovering more and more about myself with programming, so I hope that I forever continue to explore and study Programming!
 
 ### • What am I doing right now?
 
 * I'm taking classes at different courses, especialty those provided by the University that I study.
 * I'm learning more and more about a lot of things of programming, exploring the concepts of Competitive Programming, Desktop Development, Web Development, and so on.
 * I love to test my knowledge with challenges, like those presented on <a href="https://www.urionlinejudge.com.br/judge/pt/profile/413194">URI</a> or <a href = "https://neps.academy/br/user/6155">Neps Academy</a>.
+* I'm trying day-by-day to improve my skills so that I can have a job a help my family!
 * I try to be the best version of me everyday!
 
 ### • Some of the things I'm currently learning:
