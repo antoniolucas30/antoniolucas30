@@ -1,15 +1,17 @@
 
-## Hello there! Welcome to my GitHub' Profile! It's a pleasure to have you here. 👋
+# Hello there! Welcome to my GitHub' Profile! It's a pleasure to have you here. 👋
 
 ### • About me:
 
-#### - My name is Antonio Lucas, I'm from Brazil, and I'm a continuous student on this vast world of programming. Currently, I'm taking a degree on Computer Science at USP. As a side work, I make tutorials about Competitive Programming on Neps Academy, a Brazilian Site that helps others learn about Competitive Programming. Basically, I'm discovering more and more about myself with programming, so I hope that I forever continue to explore and study Programming!
+#### - My name is Antonio Lucas, I'm from Brazil, and I'm a continuous student on this vast world of programming. Currently, I'm taking a degree on Computer Science at Universidade de São Paulo. As a side work, I make tutorials about Competitive Programming on Neps Academy, a Brazilian Site that helps others learn about Competitive Programming. Basically, I'm discovering more and more about myself with programming, so I hope that I forever continue to explore and study Programming!
 
-### - Feel free to check some of my repositories :D!
+#### - Feel free to check some of my repositories :D!
 
 ### • Some of the things I'm currently learning:
 
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width = "123px"> &nbsp; <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="90px"> &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width = "168px"> &nbsp; <img src="https://i.imgur.com/FiDDKJg.png" width = "47px"> &nbsp;
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" > &nbsp; <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" > &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" > &nbsp; 
+
+<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 ### • Some of my programming-related accounts:
 
@@ -17,7 +19,7 @@
 
 ### • How you can contact me:
 
-<a href="mailto: antoniolucascavalcante@hotmail.com" title="Email"><img src="https://i.imgur.com/HSGMXdN.png" width="43px" alt="Email logo"></a>
+<a href="mailto: antoniolucascavalcante@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> <a href="https://www.linkedin.com/in/antonio-lucas-sales-cavalcante-barbosa-b92521210/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto: antoniolucas@usp.br"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  
 <!--
 **antoniolucas30/antoniolucas30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
