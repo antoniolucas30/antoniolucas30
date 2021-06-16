@@ -1,3 +1,4 @@
+
 ## Hello there! Welcome to my GitHub' Profile! It's a pleasure to have you here. 👋
 
 ### • About me:
@@ -8,7 +9,7 @@
 
 ### • Some of the things I'm currently learning:
 
-#### <img src="https://i.imgur.com/nx10iYf.png" width = "53px"> &nbsp; <img src="https://i.imgur.com/Y0TZE57.png" width="43px"> &nbsp; <img src="https://i.imgur.com/vjntF9Y.png" width = "43px"> &nbsp; <img src="https://i.imgur.com/FiDDKJg.png" width = "43px"> &nbsp; <img src="https://i.imgur.com/PvI0Iaw.png" width = "43px">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width = "123px"> &nbsp; <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="90px"> &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width = "168px"> &nbsp; <img src="https://i.imgur.com/FiDDKJg.png" width = "47px"> &nbsp;
 
 ### • Some of my programming-related accounts:
 
