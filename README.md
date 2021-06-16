@@ -5,8 +5,6 @@
 
   My name is Antonio Lucas, I'm from Brazil, and I'm a continuous student on this vast world of programming. Currently, I'm taking a degree on Computer Science at Universidade de São Paulo. Sometimes, I like to make tutorials about Competitive Programming on Neps Academy, a Brazilian Site that helps others learn about Competitive Programming. Basically, I'm discovering more and more about myself with programming, so I hope that I forever continue to explore and study Programming!
 
- Feel free to check some of my repositories :D!
-
 ### • What am I doing right now?
 
 * I'm taking classes at different courses, especialty those provided by the University that I study.
@@ -24,6 +22,10 @@
 ### • How you can contact me:
 
 <a href="mailto: antoniolucascavalcante@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> <a href="https://www.linkedin.com/in/antonio-lucas-sales-cavalcante-barbosa-b92521210/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto: antoniolucas@usp.br"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ 
+### • Feel free to check my repositories!
+
+If you want, check some of my repositories! I would love to receive some recommendations on what to improve :D!
  
 <!--
 **antoniolucas30/antoniolucas30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
