@@ -9,6 +9,7 @@
 
 ### • What am I doing right now?
 
+* I'm taking classes at different courses, especialty those provided by the University that I study.
 * I'm learning more and more about a lot of things of programming, exploring the concepts of Competitive Programming, Desktop Development, Web Development, and so on.
 * I love to test my knowledge with challenges, like those presented on <a href="https://www.urionlinejudge.com.br/judge/pt/profile/413194">URI</a> or <a href = "https://neps.academy/br/user/6155">Neps Academy</a>.
 * I try to be the best version of me everyday!
