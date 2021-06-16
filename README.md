@@ -3,9 +3,15 @@
 
 ### • About me:
 
-  My name is Antonio Lucas, I'm from Brazil, and I'm a continuous student on this vast world of programming. Currently, I'm taking a degree on Computer Science at Universidade de São Paulo. As a side work, I make tutorials about Competitive Programming on Neps Academy, a Brazilian Site that helps others learn about Competitive Programming. Basically, I'm discovering more and more about myself with programming, so I hope that I forever continue to explore and study Programming!
+  My name is Antonio Lucas, I'm from Brazil, and I'm a continuous student on this vast world of programming. Currently, I'm taking a degree on Computer Science at Universidade de São Paulo. Sometimes, I like to make tutorials about Competitive Programming on Neps Academy, a Brazilian Site that helps others learn about Competitive Programming. Basically, I'm discovering more and more about myself with programming, so I hope that I forever continue to explore and study Programming!
 
  Feel free to check some of my repositories :D!
+
+### • What am I doing right now?
+
+* I'm learning more and more about a lot of things of programming, exploring the concepts of Competitive Programming, Desktop Development, Web Development, and so on.
+* I love to test my knowledge with challenges, like those presented on <a href="https://www.urionlinejudge.com.br/judge/pt/profile/413194">URI</a> or <a href = "https://neps.academy/br/user/6155">Neps Academy</a>.
+* I try to be the best version of me everyday!
 
 ### • Some of the things I'm currently learning:
 
@@ -13,9 +19,6 @@
 
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-### • Some of my programming-related accounts:
-
-<a href="https://www.urionlinejudge.com.br/judge/pt/profile/413194" title="URI Online Judge"><img src="https://i.imgur.com/GyRVpOe.png" width="72px" alt="URI Online Judge logo"></a> &nbsp; <a href="https://neps.academy/br/user/6155" title="Neps Academy"><img src="https://i.imgur.com/ECuDjuw.png" width="160px" alt="URI Online Judge logo"></a>
 
 ### • How you can contact me:
 
